@@ -28,7 +28,7 @@
 - **Django**
 - **Django REST Framework (DRF)**
 - Аутентификация через **JWT** или сессии
-- База данных: PostgreSQL / SQLite
+- База данных: PostgreSQL 
 
 ---
 
